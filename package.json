@@ -1,0 +1,61 @@
+{
+  "name": "discordjs-v14-esm-handler",
+  "version": "1.0.0",
+  "description": "A robust and feature-rich Discord.js v14 bot handler using ESModules, with discord-hybrid-sharding support.",
+  "main": "src/index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord-bot",
+    "bot",
+    "template",
+    "handler",
+    "esm",
+    "esmodules",
+    "v14",
+    "mongodb",
+    "mongoose",
+    "hybrid-commands",
+    "slash-commands",
+    "context-menu",
+    "hot-reload",
+    "sharding",
+    "discord-hybrid-sharding"
+  ],
+  "author": {
+    "name": "Laun0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Laun0/discordjs-v14-esm-handler-pro/issues"
+  },
+  "homepage": "https://github.com/Laun0/discordjs-v14-esm-handler-pro#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laun0/discordjs-v14-esm-handler-pro.git"
+  },
+  "private": true,
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "chokidar": "^3.6.0",
+    "discord-api-types": "^0.37.84",
+    "discord-hybrid-sharding": "^2.2.6",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.3.2",
+    "winston": "^3.13.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.25.1",
+    "eslint-plugin-import": "^2.31.0",
+    "jest": "^29.7.0"
+  }
+}
