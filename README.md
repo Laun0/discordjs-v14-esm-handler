@@ -282,4 +282,4 @@ Kita appreciate banget semua kontribusi! 😉
 
 ## 📄 Lisensi
 
-Santuy, proyek ini pake Lisensi MIT. Bebas dipake & dimodif. (Cek file `LICENSE`).# discordjs-v14-esm-handler
+Santuy, proyek ini pake Lisensi MIT. Bebas dipake & dimodif. (Cek file `LICENSE`).
